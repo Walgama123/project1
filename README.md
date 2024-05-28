@@ -13,7 +13,7 @@ Risk factors for the CVD basically categorize demographic, socioeconomic, behavi
 But there may be some other factors that matter.
 There for it is very important to gather and analyze CVD death information  to make any decision on minimizing CVD death rates.
 
-[source: --World Health Organization (WHO)--](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
+[source: **World Health Organization (WHO)**](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
 
 ## Scope of the project 
  
@@ -64,12 +64,9 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - There is a positive relationship between smoking rate and the CVD death rate.
 - CVD death rate of Minnesota fell top lowest among the states.
 - Western side of Minnesota is where the top 2 areas from cvd death occurred.
-- 
-
+  
 ## Next  stage 
-Seeing the summary of the analysis it is noticeable that the southern area of the country having higher CVD death rate.
-
-And higher CVD death rate for male.
+Seeing the summary of the analysis it is noticeable that the southern area of the country having higher CVD death rate and higher CVD death rate for male.
 
 As a next step, need a deep dive on other factors like socioeconomic, behavioral, environmental, and physiological factors that directly to CVD death rate of that south regions area. 
 
