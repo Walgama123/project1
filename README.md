@@ -36,10 +36,13 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - Project Proposal : This folder contain the project proposal.
 - Outputs : This folder contains all the graphs. 
 - Summary : final presentation with the conclusion.
+
+## Key findings 
+- [Top and bottom five counties compare to the country average CVD death rate.](Outputs/wa_top_bottom_counties.png)
    
 ## Details of the analysis codes (jupyter notebooks)
 - [Heartdisease.ipynb: Codes related to the data cleating process.](Heartdisease.ipynb)
 - [geographic_CVD.ipynb : Codes related to states geographic analysis and the correlation of the smoking death rate and CVD death rates.](geographic_CVD.ipynb)  
 - [Julia-Ethnicity.ipynb : Codes related to the ethnicity distribution of the CVD death rate.](Julia-Ethnicity.ipynb) 
 - [states_breakdown.ipynb : codes related to the Minnesota states CVD death  rate analysis.]([states_breakdown.ipynb) 
-- [Mer.ipynb : Codes related to the gender analysis of the CVD deat rate.](Mer.ipynb) 
+- [Mer.ipynb : Codes related to the gender analysis of the CVD deat rate.](Mer.ipynb)
