@@ -37,8 +37,16 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - Outputs : This folder contains all the graphs. 
 - Summary : final presentation with the conclusion.
 
-## Key findings 
-- [Top and bottom five counties compare to the country average CVD death rate.](Outputs/wa_top_bottom_counties.png)
+## Key analysis 
+- [Top and bottom five counties compared to the country average CVD death rate.](Outputs/wa_top_bottom_counties.png)
+- [Geographic distribution of the top and bottom five counties](Outputs/top_bottom_five_map.png)
+- [Region CVD death rates compare to the country rate. ](Outputs/wa_region_rates.png)
+- [States distribution of the CVD death rate](Outputs/states1.png)
+- [Ethnicity distribution](Outputs/ethnicity1.png)
+- [National CVD death rate by ethnicity](Outputs/ethnicity2.png)
+- [National CVD death rate by gender.](Outputs/gender.png)
+- [County CVD death rate of the Minnesota compared to the states average. ](Outputs/states2.png)
+- [Geographic distribution of the CVD death rate of Minnesota state. ](Outputs/states4.png)
    
 ## Details of the analysis codes (jupyter notebooks)
 - [Heartdisease.ipynb: Codes related to the data cleating process.](Heartdisease.ipynb)
