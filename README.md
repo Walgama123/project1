@@ -68,5 +68,7 @@ Further analysis is limited to the demographic risk factor among various risk fa
 ## Next  stage 
 Seeing the summary of the analysis it is noticeable that the southern area of the country having higher CVD death rate.
 
+And higher CVD death rate for male.
+
 As a next step, need a deep dive on other factors like socioeconomic, behavioral, environmental, and physiological factors that directly to CVD death rate of that south regions area. 
 
