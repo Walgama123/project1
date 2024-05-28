@@ -10,10 +10,10 @@ CVD disease (CVD) is one of the most serious health issues and leading cause of 
 It is a common issue in both developed countries and developing countries. 
 Risk factors for the CVD basically categorize demographic, socioeconomic, behavioral, environmental, and physiological factors.
 
-[source:](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
-
 But there may be some other factors that matter.
 There for it is very important to gather and analyze CVD death information  to make any decision on minimizing CVD death rates.
+
+[source:](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
 
 ## Scope of the project 
  
