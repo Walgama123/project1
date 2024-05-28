@@ -56,7 +56,7 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - [Mer.ipynb : Codes related to the gender analysis of the CVD deat rate.](Mer.ipynb)
 
 ## Summary of the analysis
-- Higher CVD death rates can be seen in the south regions of the country having average CVD death rate above the country average.
+- Higher CVD death rates can be seen in the south regions of the country having above the country average.
 - CVD death rate of some counties in southern era is more than the double as country average.
 - There is a notable increase in CVD mortality for men in the USA.
 - Black ethnicity  have an higher mortality rate than other ethnic groups while Asian having low rate
