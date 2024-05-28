@@ -21,8 +21,8 @@ In this project analysis is limited to the counties only in Unites Sates of Amer
 Further analysis is limited to the demographic risk factor among various risk factors associated with the CVD death rate. 
 
 ## Data source
-- catalog.data.gov
-- lung.org/research
+- [catalog.data.gov :Published by U.S. Department of Health & Human Services](https://catalog.data.gov/dataset/national-health-and-nutrition-examination-survey-nhanes-national-cardiovascular-disease-su)
+- [American Lung Association](lung.org/research)
 
 ## Area of analysis
 - Geographic distribution of the CVD death rate.
@@ -38,8 +38,8 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - Summary : final presentation with the conclusion.
    
 ## Details of the analysis codes (jupyter notebooks)
-- Heartdisease.ipynb: Codes related to the data cleating process.
-- geographic_CVD.ipynb : Codes related to states geographic analysis and the correlation of the smoking death rate and CVD death rates. 
-- Julia-Ethnicity.ipynb : Codes related to the ethnicity distribution of the CVD death rate.
-- states_breakdown.ipynb : codes related to the Minnesota states CVD death  rate analysis.
-- Mer.ipynb : Codes related to the gender analysis of the CVD deat rate. 
+- [Heartdisease.ipynb: Codes related to the data cleating process.](Heartdisease.ipynb)
+- [geographic_CVD.ipynb : Codes related to states geographic analysis and the correlation of the smoking death rate and CVD death rates.](geographic_CVD.ipynb)  
+- [Julia-Ethnicity.ipynb : Codes related to the ethnicity distribution of the CVD death rate.](Julia-Ethnicity.ipynb) 
+- [states_breakdown.ipynb : codes related to the Minnesota states CVD death  rate analysis.]([states_breakdown.ipynb) 
+- [Mer.ipynb : Codes related to the gender analysis of the CVD deat rate.](Mer.ipynb) 
