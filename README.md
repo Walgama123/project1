@@ -13,11 +13,7 @@ Risk factors for the CVD basically categorize demographic, socioeconomic, behavi
 But there may be some other factors that matter.
 There for it is very important to gather and analyze CVD death information  to make any decision on minimizing CVD death rates.
 
-<<<<<<< HEAD
 [source: --World Health Organization (WHO)--](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
-=======
-[source: _World Health Organization (WHO)_](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
->>>>>>> 22bbafaeed3729d795676669b477013672e63414
 
 ## Scope of the project 
  
@@ -51,10 +47,7 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - [National CVD death rate by gender.](Outputs/gender.png)
 - [County CVD death rate of the Minnesota compared to the states average. ](Outputs/states2.png)
 - [Geographic distribution of the CVD death rate of Minnesota state. ](Outputs/states4.png)
-<<<<<<< HEAD
-=======
 - [Correlation between smoking and CVD death rate ](Outputs/wa_smoking_vs_death.png)
->>>>>>> 22bbafaeed3729d795676669b477013672e63414
    
 ## Details of the analysis codes (jupyter notebooks)
 - [Heartdisease.ipynb: Codes related to the data cleating process.](Heartdisease.ipynb)
@@ -71,18 +64,12 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - There is a positive relationship between smoking rate and the CVD death rate.
 - CVD death rate of Minnesota fell top lowest among the states.
 - Western side of Minnesota is where the top 2 areas from cvd death occurred.
-<<<<<<< HEAD
-- 
+
+[Summary Report](Summary/SummaryoftheStudy.docx)
 
 ## Next  stage 
 Seeing the summary of the analysis it is noticeable that the southern area of the country having higher CVD death rate.
 
 And higher CVD death rate for male.
-=======
-  
-## Next  stage 
-Seeing the summary of the analysis it is noticeable that the southern area of the country having higher CVD death rate and higher CVD death rate for male.
->>>>>>> 22bbafaeed3729d795676669b477013672e63414
 
 As a next step, need a deep dive on other factors like socioeconomic, behavioral, environmental, and physiological factors that directly to CVD death rate of that south regions area. 
-
